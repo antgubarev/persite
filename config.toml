@@ -65,8 +65,12 @@ googleAnalytics = "UA-130625425-1"
 # Menu links
 [[menu.main]]
     name = "Обо мне"
-    weight = 2
+    weight = 1
     url = "/about/"
+[[menu.main]]
+     name = "Выступления"
+     weight = 2
+     url = "/talks/"
 [[menu.main]]
     name = "Канал в телеге"
     weight = 3
