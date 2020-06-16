@@ -13,6 +13,8 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "antgubarev"
 
+googleAnalytics = "UA-130625425-1"
+
 [params]
     author = "Anton Gubarev"
     info = "Php/Go Developer and Team Leader"
