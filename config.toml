@@ -48,7 +48,17 @@ disqusShortname = "antgubarev"
     name = "Vk"
     icon = "fab fa-vk fa-2x"
     weight = 3
-    url = "https://twitter.com/antgubarev/"
+    url = "https://vk.com/antgubarev/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/antgubarev/"
+[[params.social]]
+    name = "Telegram"
+    icon = "fab fa-telegram fa-2x"
+    weight = 3
+    url = "https://t.me/antgubarev"
 
 # Menu links
 [[menu.main]]
