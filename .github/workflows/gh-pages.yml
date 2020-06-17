@@ -30,4 +30,4 @@ jobs:
         with:
           emptyCommits: false
           commitMessage: ${{ github.event.head_commit.message }}
-          cname: antgubarev.com
+          cname: antgubarev.dev
