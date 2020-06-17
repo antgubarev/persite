@@ -30,7 +30,7 @@ Php, Golang, Typescript, Symfony, Angular, RabbitMQ, SphinxSearch, Elastic, Post
 
 Способы связи:
 - [Телеграм](https://t.me/antgubarev) (@antgubarev)
-- [Почта](mailto:mail@antgubarev.com)
+- [Почта](mailto:antgubarev.dev@gmail.com)
 
 Я просматриваю все письма и сообщения, которые получаю, и на все обязательно отвечаю.
 Но, к сожалению, не всегда это возможно сделать быстро, поэтому ответ может задержаться
