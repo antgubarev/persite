@@ -17,9 +17,9 @@ googleAnalytics = "UA-130625425-1"
 
 [params]
     author = "Anton Gubarev"
-    info = "Php/Go Developer and Team Leader"
+    info = "Web architect and engineer"
     description = "Anton Gubarev's personal website"
-    keywords = "blog,developer,personal,teamleader,php,golang"
+    keywords = "губарев,gubarev,web,consulting,architecture,архитектура,highload,хайлоад"
     avatarurl = "images/photo.jpg"
 
     favicon_32 = "/img/favicon-32x32.png"
@@ -75,3 +75,7 @@ googleAnalytics = "UA-130625425-1"
     name = "Канал в телеге"
     weight = 3
     url = "https://t.me/devlead"
+[[menu.main]]
+    name = "Чатик"
+    weight = 4
+    url = "https://t.me/arch_pain"
