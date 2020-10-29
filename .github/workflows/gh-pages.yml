@@ -28,6 +28,7 @@ jobs:
           PUBLISH_BRANCH: gh-pages
           PUBLISH_DIR: ./public
         with:
+          github_token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           emptyCommits: false
           commitMessage: ${{ github.event.head_commit.message }}
           cname: antgubarev.dev
