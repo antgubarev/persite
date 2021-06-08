@@ -8,7 +8,7 @@ slug = "about"
 
 
 ## Стэк технологий, навыков и интересов:
-SOA, DDD, CQRS, Microservices, Php, Golang, Symfony, Highload
+SOA, DDD, CQRS, Microservices, Php, Golang, Highload
 
 ## Чем могу помочь:
 - Консультирую по техническим и архитектурным вопросам.
@@ -17,7 +17,7 @@ SOA, DDD, CQRS, Microservices, Php, Golang, Symfony, Highload
 - Помогаю бороться с легаси в жестких условиях энтерпрайза.
 
 ## Делюсь опытом
-Веду телеграм [канал](https://t.me/devlead), в котором делюсь опытом, рассказываю о пройденных граблях, публикую интересные находки. Разные интересные вопросы обсуждаю в [чате](https://t.me/arch_pain) 
+Веду телеграм [канал](https://t.me/devlead), в котором делюсь опытом, рассказываю о пройденных граблях, публикую интересные находки. Беседую в [чате](https://t.me/arch_pain) 
 
 ## Способы связи:
 - [Телеграм](https://t.me/antgubarev) (@antgubarev)
