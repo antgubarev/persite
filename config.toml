@@ -1,6 +1,6 @@
 baseurl = "https://antgubarev.dev"
 title = "antgubarev"
-theme = "hugo-coder"
+theme = "antgubarev"
 languagecode = "ru"
 defaultcontentlanguage = "ru"
 
@@ -33,32 +33,32 @@ googleAnalytics = "UA-130625425-1"
     rtl = false
 
     math = true
-    custom_css = ["css/custom.css"]
+    customCSS = ["css/custom.css"]
 
 # Social links
 [[params.social]]
     name = "Github"
-    icon = "fab fa-github fa-2x"
+    icon = "fa fa-github fa-2x"
     weight = 1
     url = "https://github.com/antgubarev"
 [[params.social]]
     name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    icon = "fa fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/antgubarev/"
 [[params.social]]
     name = "Vk"
-    icon = "fab fa-vk fa-2x"
+    icon = "fa fa-vk fa-2x"
     weight = 3
     url = "https://vk.com/antgubarev/"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin fa-2x"
+    icon = "fa fa-linkedin fa-2x"
     weight = 3
     url = "https://www.linkedin.com/in/antgubarev/"
 [[params.social]]
     name = "Telegram"
-    icon = "fab fa-telegram fa-2x"
+    icon = "fa fa-telegram fa-2x"
     weight = 3
     url = "https://t.me/antgubarev"
 
